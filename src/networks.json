@@ -237,6 +237,15 @@
     "ws": ["wss://ws-testnet.hecochain.com"],
     "explorer": "https://scan-testnet.hecochain.com"
   },
+  "250": {
+    "key": "250",
+    "name": "Fantom Mainnet",
+    "shortName": "Famtom",
+    "chainId": 250,
+    "network": "mainnet",
+    "rpc": ["https://rpcapi.fantom.network"],
+    "explorer": "https://ftmscan.com"
+  },
   "128": {
     "key": "128",
     "name": "Huobi Eco Chain Mainnet",
